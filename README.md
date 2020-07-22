@@ -18,3 +18,8 @@ The MCSKopt optimizer is released under the MIT License.
 
 ### Acknowledgements
 This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no.675251.
+
+### Documentation
+**[View slides showing examples](https://github.com/resulal/MOSKopt/blob/master/docs/MOSKopt.pdf)**
+
+[![MOSKopt](https://github.com/resulal/MOSKopt/blob/master/docs/coverslide.PNG)](https://github.com/resulal/MOSKopt/blob/master/docs/MOSKopt.pdf)
