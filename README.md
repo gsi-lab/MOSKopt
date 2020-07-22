@@ -8,7 +8,7 @@ MOSKopt is a MATLAB-based simulation-based optimizer and is part of a larger com
 **Stochastic simulation-based superstructure optimization framework for process synthesis and design under uncertainty**
 
 ### Installing MOSKopt
-Downloading and adding the folder path to your current MATLAB session will suffice to make use of the full functionality of the optimizer.
+Downloading and adding the folder path to your current MATLAB session will suffice to make use of the full functionality of the optimizer. Alternatively, you can also run **install.m** file in your MATLAB session.
 
 ### Authors
 * **[Resul Al](https://www.linkedin.com/in/resulal/)** ([resulal](https://github.com/resulal)) - Technical University of Denmark
