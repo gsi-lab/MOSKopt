@@ -22,4 +22,4 @@ This work has received funding from the European Union's Horizon 2020 research a
 ### Documentation
 **[View slides showing examples](https://github.com/resulal/MOSKopt/blob/master/docs/MOSKopt.pdf)**
 
-[![MOSKopt](https://github.com/resulal/MOSKopt/blob/master/docs/coverslide.PNG)](https://github.com/resulal/MOSKopt/blob/master/docs/MOSKopt.pdf)
+[![MOSKopt](https://github.com/resulal/MOSKopt/blob/master/docs/figs/coverslide.PNG)](https://github.com/resulal/MOSKopt/blob/master/docs/MOSKopt.pdf)
