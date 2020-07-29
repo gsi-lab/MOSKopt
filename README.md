@@ -1,7 +1,7 @@
 ![MCSKopt](https://github.com/resulal/MOSKopt/blob/master/docs/figs/MOSKopt.PNG "MOSKopt")
 
 # MOSKopt
-Process simulation-based design space optimizer with embeded Monte Carlo-based uncertainty quantification.
+Process simulation-based design space optimizer with embedded Monte Carlo-based uncertainty quantification.
 
 MOSKopt is a MATLAB-based simulation-based optimizer and is part of a larger computational framework developed for performing design space optimization under uncertainty in the following paper. 
 
