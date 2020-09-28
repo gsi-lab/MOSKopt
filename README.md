@@ -14,7 +14,7 @@ Downloading and adding the folder path to your current MATLAB session will suffi
 * **[Resul Al](https://www.linkedin.com/in/resulal/)** ([resulal](https://github.com/resulal)) - Technical University of Denmark
 
 ### License
-The MCSKopt optimizer is released under the MIT License. 
+The MOSKopt optimizer is released under the MIT License. 
 
 ### Acknowledgements
 This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no.675251.
