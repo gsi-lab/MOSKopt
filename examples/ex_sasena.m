@@ -1,5 +1,5 @@
 
-% Simulation-based optimization of Sasena test problem using MCSKopt
+% Simulation-based optimization of Sasena test problem using MOSKopt
 % By Resul Al @DTU
 
 clc; clearvars;
@@ -12,7 +12,7 @@ p.dim  = numel(p.x0);     % Dimensinality of the design space
 p.m    = 1e3;             % MC sample size for integrated uncertainty analysis
 p.cv   = 0.50;            % Coefficient of variation in uncertain parameters
 k      = 5*p.dim;         % Size of initial (coarse) design
-Nmax   = 100;              % MaxFunEval (SK iterations) 
+Nmax   = 100;             % MaxFunEval (SK iterations) 
 
 % Create an initial (coarse) design space (InitialX)
 Xp = lhsdesign(k,p.dim);  % LHS in probability space

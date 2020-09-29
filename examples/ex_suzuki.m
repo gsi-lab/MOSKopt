@@ -1,5 +1,5 @@
 
-% Simulation-based optimization of Rosen Suzuki test problem using MCSKopt
+% Simulation-based optimization of Rosen Suzuki test problem using MOSKopt
 % By Resul Al @DTU
 
 clc; clearvars;
